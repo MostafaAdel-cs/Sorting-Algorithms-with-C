@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1621162862 source:d:\mozkra\ds\projects\sorting with c\sorting algorithms\main.cpp
+	"O_n2.h"
+	<iostream>
+	<bits/stdc++.h>
+	"heapsort.h"
+	"mergeSort.h"
+	"quicksort.h"
+	<chrono>
+	<time.h>
+
+1621145081 d:\mozkra\ds\projects\sorting with c\sorting algorithms\o_n^2.h
+	<iostream>
+	<bits/stdc++.h>
+
+1621161194 source:d:\mozkra\ds\projects\sorting with c\sorting algorithms\o_n2.cpp
+	"O_n2.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1621158875 d:\mozkra\ds\projects\sorting with c\sorting algorithms\o_n2.h
+	<iostream>
+	<bits/stdc++.h>
+
+1621152662 d:\mozkra\ds\projects\sorting with c\sorting algorithms\maxheap.h
+	<iostream>
+	<bits/stdc++.h>
+
+1621153770 source:d:\mozkra\ds\projects\sorting with c\sorting algorithms\maxheap.cpp
+	"maxheap.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1621153872 d:\mozkra\ds\projects\sorting with c\sorting algorithms\o_nlogn.h
+	<iostream>
+	<bits/stdc++.h>
+
+1621153780 source:d:\mozkra\ds\projects\sorting with c\sorting algorithms\o_nlogn.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"O_nlogn.h"
+	"maxheap.h"
+
+1621154990 d:\mozkra\ds\projects\sorting with c\sorting algorithms\heapsort.h
+	<iostream>
+	<bits/stdc++.h>
+
+1621154991 source:d:\mozkra\ds\projects\sorting with c\sorting algorithms\heapsort.cpp
+	"maxheap.h"
+	"heapsort.h"
+
+1621156263 d:\mozkra\ds\projects\sorting with c\sorting algorithms\mergesort.h
+	<iostream>
+	<bits/stdc++.h>
+
+1621156343 source:d:\mozkra\ds\projects\sorting with c\sorting algorithms\mergesort.cpp
+	"mergeSort.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1621158806 source:d:\mozkra\ds\projects\sorting with c\sorting algorithms\quicksort.cpp
+	"quicksort.h"
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+
+1621158815 d:\mozkra\ds\projects\sorting with c\sorting algorithms\quicksort.h
+	<iostream>
+	<bits/stdc++.h>
+
